@@ -179,8 +179,7 @@
                     <mainClass>org.test.int1.Main</mainClass>
                 </configuration>
             </plugin>
-        </plugins>
-        
+        </plugins>   
         <finalName>app</finalName>
     </build>
 
