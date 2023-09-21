@@ -12,8 +12,8 @@
 <P>  The time on the server is ${serverTime}. </P>
 <div>
 
-	HI HELLO????
-	MY NAME IS JUNG
+
+안녕세계야?
 </div>
 
 
